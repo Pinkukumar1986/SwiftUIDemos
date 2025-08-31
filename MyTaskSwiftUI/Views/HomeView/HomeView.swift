@@ -40,7 +40,7 @@ struct HomeView: View {
                 .navigationTitle("Home")
                 .toolbarBackground(
                     Color.red, for: .navigationBar)
-        }.background(.red)
+        }.background(.green)
     }
 }
 
